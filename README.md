@@ -1,7 +1,7 @@
 # Volume Detection System
 
 ## Overview
-This repository contains a Jupyter Notebook for a Volume Detection System developed using Pytho,.
+This repository contains a Jupyter Notebook for a Volume Detection System developed using Python.
 
 ## File Description
 - **Volume-Detection.ipynb**: This notebook implements various functions to analyze volume data, calculate market trends, and provide trading signals.
