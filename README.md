@@ -22,4 +22,4 @@ To run this notebook, ensure you have the following packages installed:
 You can install the required packages using pip:
 
 ```bash
-pip install jupyter ccxt
+pip install jupyter ccxt tabulate
