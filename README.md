@@ -13,8 +13,11 @@ This repository contains a Jupyter Notebook for a Volume Detection System develo
 
 ## Installation
 To run this notebook, ensure you have the following packages installed:
-- Python 3.x
+- Python
 - Jupyter Notebook
+
+## Screenshot
+![Volume Detection Screenshot](Result.png)
 
 You can install the required packages using pip:
 
